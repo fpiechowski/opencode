@@ -28,6 +28,7 @@ target
 
 # Local dev files
 opencode-dev
+in-memoria.db
 UPCOMING_CHANGELOG.md
 logs/
 *.bun-build
